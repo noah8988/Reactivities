@@ -2,8 +2,6 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Domain;
 using Microsoft.AspNetCore.Mvc;
-using Persistence;
-using Microsoft.EntityFrameworkCore;
 using System;
 using Application.Activities;
 
